@@ -8,7 +8,6 @@ apt-get install unzip -y
 echo "Atualização concluída"
 
 echo "Baixando os arquivos da aplicação..."
-
 cd /tmp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
